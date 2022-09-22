@@ -1,5 +1,10 @@
 # konverter_suhu1
-
+* Nama = Izzatun Nauly
+* Kelas = TI-3H
+* NIM = 2041720166
+* No. Absen = 12
+* Screenshot hasil dari Converter Suhu
+* <img src="./images/outputsuhu.png">
 A new Flutter project.
 
 ## Getting Started
