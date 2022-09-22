@@ -4,7 +4,7 @@
 * NIM = 2041720166
 * No. Absen = 12
 * Screenshot hasil dari Converter Suhu
-* <img src="./images/outputsuhu.png">
+* <img src="./images/outputsuhu.PNG">
 A new Flutter project.
 
 ## Getting Started
