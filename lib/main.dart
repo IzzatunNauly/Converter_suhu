@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
   konversi() {
     setState(() {
       inputUser = double.parse(etInput.text);
-      kelvin = inputUser + 237;
+      kelvin = inputUser + 273;
       fahrenheit = 9 / 5 * inputUser + 32;
       reamur = 4 / 5 * inputUser;
     });
